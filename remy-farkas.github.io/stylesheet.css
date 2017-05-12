@@ -1,0 +1,149 @@
+img {
+  text-align: center;
+  margin-right: auto;
+  margin-left: 480px;
+  border-radius: 50%;
+  height:50px
+  width:50px;
+}
+h2 {
+	text-align: center;
+	font-family: 'Fjalla One', sans-serif;
+	font-weight: 350;
+	font-size: 18px;
+	margin-bottom: 40px;
+}
+body {
+	padding: 24px;
+}
+head {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: 100;
+  font-size:  48px;
+  color: gray;
+}
+div {
+	font-family:'Roboto', sans-serif;
+	padding-top: 10px;
+	text-align: 'center';
+  	padding: 16px;
+}
+h3 {
+  padding-left: 150px;
+  padding-right: 150px;
+  color: gray;
+  font-family: 'Roboto', sans-serif;
+}
+.heading {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: underline;
+  padding-top: 2%;
+  display: inline-block;
+  float: left;
+  padding-left:  18%;
+  color: gray;
+  font-size: 25px;
+}
+.info {
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  float:  left;
+  color:  gray;
+  text-align:  center;
+  padding-left: 1%;
+  font-size: 20px;
+}
+.head {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: underline;
+  padding-top: 15%;
+  display: inline-block;
+  float: left;
+  margin-left: -650px;
+  color: gray;
+  font-size: 25px;
+  align: right;
+}
+.information {
+  font-family: 'Roboto', sans-serif;
+  margin-top: -5.5%;
+  display: inline-block;
+  float:  left;
+  color:  gray;
+  text-align:  center;
+  padding-left: 30%;
+  font-size: 20px;
+}
+#place {
+  text-align: left;
+}
+#bullets {
+  text-align: left;
+}
+.feature {
+  font-family: 'Roboto', sans-serif;
+  margin-top: -3%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align:  center;
+  padding-left: 30%;
+  font-size: 20px;
+}
+.report {
+  font-family: 'Roboto', sans-serif;
+  margin-top: -3%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align:  center;
+  padding-left: 30%;
+  font-size: 20px;
+}
+.leadership {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 1%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  margin-left: 69px;
+  font-size: 20px;
+}
+.coding {
+  font-family: 'Roboto', sans-serif;
+  margin-top: -50px;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  margin-left: 28%;
+  font-size: 20px;
+}
+.design {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 65px;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  margin-left: -137px;
+  font-size: 20px;
+}
+.dstp {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 200px;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align:  center;
+  margin-left: -240px;
+  font-size: 20px;
+}
